@@ -10,7 +10,8 @@ body {
 
 .header-image {
     display: block;
-    width: 100%;
+    width: 100%; //fallback
+    width: 100vw;
     height: 100vh;
     float: none;
     text-align: center;
