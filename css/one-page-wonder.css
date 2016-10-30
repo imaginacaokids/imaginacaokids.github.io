@@ -10,11 +10,11 @@ body {
 
 .header-image {
     display: block;
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     float: none;
     text-align: center;
-    background: url('./assets/Titulo_site.png') no-repeat center center scroll;
+    background: url('../assets/Titulo_site.png') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
