@@ -181,4 +181,9 @@ footer {
         margin-bottom: 10px;
         margin-left: 0;
     }
+    
+    .header-image {
+        display: none;
+    }
+}
 }
