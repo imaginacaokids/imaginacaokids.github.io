@@ -11,10 +11,9 @@ body {
 .header-image {
     display: block;
     width: 100vw;
-    max-height: 600px 0;
     float: none;
     text-align: center;
-    background: url('../assets/titulo_site.png') no-repeat center center scroll;
+    background: url('../assets/Titulo site2.png') no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
