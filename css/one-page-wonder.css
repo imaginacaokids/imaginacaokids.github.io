@@ -10,7 +10,8 @@ body {
 
 .header-image {
     display: block;
-    width: 100vw;
+    width: 1425px 0;
+    height: 382px 0;
     float: none;
     text-align: center;
     background: url('../assets/titulo_site.png') no-repeat center center scroll;
