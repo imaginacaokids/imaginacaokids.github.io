@@ -11,7 +11,6 @@ body {
 .header-image {
     display: block;
     width: 100vw;
-    height: 100vh;
     float: none;
     text-align: center;
     background: url('../assets/Titulo site2.png') no-repeat center center scroll;
