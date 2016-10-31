@@ -20,6 +20,18 @@ body {
     -o-background-size: cover;
 }
 
+#logo {
+  position: absolute;
+  width: 120px;
+  top: 0px;  
+  bottom: 0px;
+  left: 0px;
+  background: url('../assets/logo.png') no-repeat center center scroll;
+  
+  border: 1px solid red;
+  background-color: rgba(255, 0, 0, 0.1);
+}
+
 .headline {
     padding: 120px 0;
 }
