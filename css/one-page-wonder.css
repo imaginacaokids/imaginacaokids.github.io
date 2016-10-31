@@ -10,7 +10,7 @@ body {
 
 #logo {
   position: absolute;
-  width: 120px;
+  width: 100vw;
   top: 0px;  
   bottom: 0px;
   left: 0px;
