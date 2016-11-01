@@ -173,6 +173,9 @@ ol{
     .featurette-heading-2 {
         font-size: 20px;
     }
+    div img {
+        margin-left: 25%;
+    }
 }
 
 @media(max-width:668px) {
@@ -201,9 +204,10 @@ ol{
     .headline h2 {
         font-size: 30px;
     }
-    .header-image {
+ /*   .header-image {
     display: none;
     }
+ */
 }
 
 @media(max-width:375px) {
