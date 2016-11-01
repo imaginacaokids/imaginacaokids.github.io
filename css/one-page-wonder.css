@@ -173,7 +173,7 @@ ol{
     .featurette-heading-2 {
         font-size: 20px;
     }
-    div img {
+    div.navbar-header img {
         margin-left: 25%;
     }
 }
