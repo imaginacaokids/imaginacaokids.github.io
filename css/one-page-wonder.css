@@ -78,7 +78,7 @@ ol{
     text-align: center;
     float: center; 
     margin-top:5px; 
-    margin-bottom: 5px;
+    margin-bottom: 15px;
 }
 
 .footer-social ul { 
@@ -167,6 +167,7 @@ ol{
     }
 
     .featurette-heading {
+        text-align: center;
         font-size: 25px;
     }
     .featurette-heading-2 {
