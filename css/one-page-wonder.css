@@ -56,6 +56,20 @@ body {
     font-size: 50px;
 }
 
+.featurette-heading-2 {
+    font-size: 35px;
+}
+
+
+ol{
+    -moz-column-count: 2;
+    -moz-column-gap: 30px;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 30px;
+    column-count: 2;
+    column-gap: 30px;
+}
+
 footer {
     margin: 50px 0;
 }
@@ -83,6 +97,9 @@ footer {
 
     .featurette-heading {
         font-size: 35px;
+    }
+    .featurette-heading-2 {
+        font-size: 30px;
     }
 }
 
@@ -114,6 +131,9 @@ footer {
     .featurette-heading {
         font-size: 30px;
     }
+    .featurette-heading-2 {
+        font-size: 25px;
+    }
 }
 
 @media(max-width:768px) {
@@ -128,6 +148,9 @@ footer {
 
     .featurette-heading {
         font-size: 25px;
+    }
+    .featurette-heading-2 {
+        font-size: 20px;
     }
 }
 
